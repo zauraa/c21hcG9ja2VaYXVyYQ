@@ -12,138 +12,54 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Zaura =====
-[1]Zaura       |09:46:54 | 21-10-2026| login OK @myzauraa | score=1630 rank=4354
-[1]Zaura       |09:46:54 | 21-10-2026| serverTime=2026-10-21T09:46:54.000Z local=2026-10-21T09:46:54.362Z
+[1]Zaura       |06:56:57 | 22-10-2026| login OK @myzauraa | score=1700 rank=4192
+[1]Zaura       |06:56:57 | 22-10-2026| serverTime=2026-10-22T06:56:57.000Z local=2026-10-22T06:56:57.784Z
 --> [1]Zaura menjalankan: Claim Daily
-[1]Zaura       |09:46:55 | 21-10-2026| daily: OK +10 poin score=1640
---> [1]Zaura menjalankan: Auto All Tasks (6 pending)
-[1]Zaura       |09:46:57 | 21-10-2026| [1/6] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myzauraa/status/2112842460764574195
-[1]Zaura       |09:46:57 | 21-10-2026| delay 10s...
-[1]Zaura       |09:47:09 | 21-10-2026| [2/6] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myzauraa/status/2112842696695628411
-[1]Zaura       |09:47:09 | 21-10-2026| delay 10s...
-[1]Zaura       |09:47:21 | 21-10-2026| [3/6] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myzauraa/status/2112842784538429861
-[1]Zaura       |09:47:21 | 21-10-2026| delay 10s...
-[1]Zaura       |09:47:33 | 21-10-2026| [4/6] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myzauraa/status/2112842910182261012
-[1]Zaura       |09:47:33 | 21-10-2026| delay 10s...
-[1]Zaura       |09:47:49 | 21-10-2026| [5/6] 6e666982 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227 | proof=https://x.com/myzauraa/status/2112842805563912672
-[1]Zaura       |09:47:49 | 21-10-2026| delay 10s...
-[1]Zaura       |09:48:01 | 21-10-2026| [6/6] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211275255741227
-[1]Zaura       |09:48:01 | 21-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Zaura       |09:48:03 | 21-10-2026| [1/1] 3ce7cf77 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"3ce7cf77-cd3a-40d4-a2ae-eee75a10472d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112752557412274 | proof=https://x.com/myzauraa/status/2112842827653516890
+[1]Zaura       |06:56:58 | 22-10-2026| daily: OK +10 poin score=1710
+--> [1]Zaura menjalankan: Auto All Tasks (7 pending)
+[1]Zaura       |06:57:00 | 22-10-2026| [1/7] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162319031743862
+[1]Zaura       |06:57:00 | 22-10-2026| delay 10s...
+[1]Zaura       |06:57:12 | 22-10-2026| [2/7] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162133349774609
+[1]Zaura       |06:57:12 | 22-10-2026| delay 10s...
+[1]Zaura       |06:57:24 | 22-10-2026| [3/7] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162229355319474
+[1]Zaura       |06:57:24 | 22-10-2026| delay 10s...
+[1]Zaura       |06:57:36 | 22-10-2026| [4/7] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162513577268345
+[1]Zaura       |06:57:36 | 22-10-2026| delay 10s...
+[1]Zaura       |06:57:48 | 22-10-2026| [5/7] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162541878585723
+[1]Zaura       |06:57:48 | 22-10-2026| delay 10s...
+[1]Zaura       |06:57:59 | 22-10-2026| [6/7] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162609171204964
+[1]Zaura       |06:57:59 | 22-10-2026| delay 10s...
+[1]Zaura       |06:58:11 | 22-10-2026| [7/7] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/myzauraa/status/2113162373647795808
+[1]Zaura       |06:58:11 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Zaura       |06:58:13 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/myzauraa/status/2113162448850608557
 --> [1]Zaura menjalankan: Watch Anime
-[1]Zaura       |09:48:04 | 21-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Zaura       |09:48:04 | 21-10-2026| watch [1/4] farming oshi-captains-hat...
-[1]Zaura       |09:48:06 | 21-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
-[1]Zaura       |09:48:12 | 21-10-2026| watch oshi-captains-hat: 5% (5.28/92.00s)
-[1]Zaura       |09:48:18 | 21-10-2026| watch oshi-captains-hat: 11% (10.72/92.00s)
-[1]Zaura       |09:48:24 | 21-10-2026| watch oshi-captains-hat: 17% (16.13/92.00s)
-[1]Zaura       |09:48:30 | 21-10-2026| watch oshi-captains-hat: 23% (21.64/92.00s)
-[1]Zaura       |09:48:37 | 21-10-2026| watch oshi-captains-hat: 29% (27.12/92.00s)
-[1]Zaura       |09:48:43 | 21-10-2026| watch oshi-captains-hat: 35% (32.87/92.00s)
-[1]Zaura       |09:48:49 | 21-10-2026| watch oshi-captains-hat: 41% (38.25/92.00s)
-[1]Zaura       |09:48:55 | 21-10-2026| watch oshi-captains-hat: 47% (43.69/92.00s)
-[1]Zaura       |09:49:01 | 21-10-2026| watch oshi-captains-hat: 53% (49.15/92.00s)
-[1]Zaura       |09:49:07 | 21-10-2026| watch oshi-captains-hat: 59% (54.68/92.00s)
-[1]Zaura       |09:49:13 | 21-10-2026| watch oshi-captains-hat: 65% (60.39/92.00s)
-[1]Zaura       |09:49:19 | 21-10-2026| watch oshi-captains-hat: 71% (65.89/92.00s)
-[1]Zaura       |09:49:25 | 21-10-2026| watch oshi-captains-hat: 77% (71.37/92.00s)
-[1]Zaura       |09:49:32 | 21-10-2026| watch oshi-captains-hat: 83% (76.85/92.00s)
-[1]Zaura       |09:49:38 | 21-10-2026| watch oshi-captains-hat: 89% (82.55/92.00s)
-[1]Zaura       |09:49:44 | 21-10-2026| watch oshi-captains-hat: 95% (88.06/92.00s)
-[1]Zaura       |09:49:44 | 21-10-2026| watch oshi-captains-hat: COMPLETED (88.06/92.00s)
-[1]Zaura       |09:49:49 | 21-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Zaura       |09:49:51 | 21-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
-[1]Zaura       |09:49:57 | 21-10-2026| watch oshi-rainbow-star: 6% (5.23/86.00s)
-[1]Zaura       |09:50:03 | 21-10-2026| watch oshi-rainbow-star: 12% (10.79/86.00s)
-[1]Zaura       |09:50:10 | 21-10-2026| watch oshi-rainbow-star: 19% (16.36/86.00s)
-[1]Zaura       |09:50:16 | 21-10-2026| watch oshi-rainbow-star: 25% (22.08/86.00s)
-[1]Zaura       |09:50:22 | 21-10-2026| watch oshi-rainbow-star: 31% (27.46/86.00s)
-[1]Zaura       |09:50:28 | 21-10-2026| watch oshi-rainbow-star: 38% (33.20/86.00s)
-[1]Zaura       |09:50:34 | 21-10-2026| watch oshi-rainbow-star: 44% (38.62/86.00s)
-[1]Zaura       |09:50:40 | 21-10-2026| watch oshi-rainbow-star: 51% (44.12/86.00s)
-[1]Zaura       |09:50:46 | 21-10-2026| watch oshi-rainbow-star: 57% (49.64/86.00s)
-[1]Zaura       |09:50:52 | 21-10-2026| watch oshi-rainbow-star: 64% (55.09/86.00s)
-[1]Zaura       |09:50:59 | 21-10-2026| watch oshi-rainbow-star: 70% (60.55/86.00s)
-[1]Zaura       |09:51:05 | 21-10-2026| watch oshi-rainbow-star: 76% (66.03/86.00s)
-[1]Zaura       |09:51:11 | 21-10-2026| watch oshi-rainbow-star: 83% (71.67/86.00s)
-[1]Zaura       |09:51:17 | 21-10-2026| watch oshi-rainbow-star: 89% (77.04/86.00s)
-[1]Zaura       |09:51:23 | 21-10-2026| watch oshi-rainbow-star: 96% (82.68/86.00s)
-[1]Zaura       |09:51:23 | 21-10-2026| watch oshi-rainbow-star: COMPLETED (82.68/86.00s)
-[1]Zaura       |09:51:28 | 21-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Zaura       |09:51:30 | 21-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Zaura       |09:51:38 | 21-10-2026| watch oshi-rainbow-lighthouse: 5% (5.19/87.00s)
-[1]Zaura       |09:51:44 | 21-10-2026| watch oshi-rainbow-lighthouse: 13% (11.62/87.00s)
-[1]Zaura       |09:51:50 | 21-10-2026| watch oshi-rainbow-lighthouse: 20% (17.61/87.00s)
-[1]Zaura       |09:51:56 | 21-10-2026| watch oshi-rainbow-lighthouse: 27% (23.53/87.00s)
-[1]Zaura       |09:52:02 | 21-10-2026| watch oshi-rainbow-lighthouse: 33% (28.95/87.00s)
-[1]Zaura       |09:52:08 | 21-10-2026| watch oshi-rainbow-lighthouse: 39% (34.55/87.00s)
-[1]Zaura       |09:52:14 | 21-10-2026| watch oshi-rainbow-lighthouse: 46% (40.03/87.00s)
-[1]Zaura       |09:52:20 | 21-10-2026| watch oshi-rainbow-lighthouse: 52% (45.43/87.00s)
-[1]Zaura       |09:52:27 | 21-10-2026| watch oshi-rainbow-lighthouse: 58% (50.80/87.00s)
-[1]Zaura       |09:52:33 | 21-10-2026| watch oshi-rainbow-lighthouse: 64% (56.41/87.00s)
-[1]Zaura       |09:52:39 | 21-10-2026| watch oshi-rainbow-lighthouse: 71% (61.97/87.00s)
-[1]Zaura       |09:52:47 | 21-10-2026| watch oshi-rainbow-lighthouse: 77% (67.45/87.00s)
-[1]Zaura       |09:52:53 | 21-10-2026| watch oshi-rainbow-lighthouse: 84% (73.52/87.00s)
-[1]Zaura       |09:52:59 | 21-10-2026| watch oshi-rainbow-lighthouse: 91% (79.84/87.00s)
-[1]Zaura       |09:52:59 | 21-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (79.84/87.00s)
-[1]Zaura       |09:53:04 | 21-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Zaura       |09:53:06 | 21-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Zaura       |09:53:12 | 21-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.12/181.00s)
-[1]Zaura       |09:53:18 | 21-10-2026| watch bakeru-ikesou-jan-mv: 6% (11.07/181.00s)
-[1]Zaura       |09:53:24 | 21-10-2026| watch bakeru-ikesou-jan-mv: 9% (16.42/181.00s)
-[1]Zaura       |09:53:30 | 21-10-2026| watch bakeru-ikesou-jan-mv: 12% (21.81/181.00s)
-[1]Zaura       |09:53:36 | 21-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.18/181.00s)
-[1]Zaura       |09:53:42 | 21-10-2026| watch bakeru-ikesou-jan-mv: 17% (32.55/181.00s)
-[1]Zaura       |09:53:48 | 21-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.29/181.00s)
-[1]Zaura       |09:53:55 | 21-10-2026| watch bakeru-ikesou-jan-mv: 24% (43.70/181.00s)
-[1]Zaura       |09:54:01 | 21-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.25/181.00s)
-[1]Zaura       |09:54:07 | 21-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.09/181.00s)
-[1]Zaura       |09:54:13 | 21-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.60/181.00s)
-[1]Zaura       |09:54:19 | 21-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.07/181.00s)
-[1]Zaura       |09:54:25 | 21-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.44/181.00s)
-[1]Zaura       |09:54:32 | 21-10-2026| watch bakeru-ikesou-jan-mv: 42% (76.87/181.00s)
-[1]Zaura       |09:54:38 | 21-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.92/181.00s)
-[1]Zaura       |09:54:44 | 21-10-2026| watch bakeru-ikesou-jan-mv: 48% (88.47/181.00s)
-[1]Zaura       |09:54:50 | 21-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.89/181.00s)
-[1]Zaura       |09:54:57 | 21-10-2026| watch bakeru-ikesou-jan-mv: 54% (99.39/181.00s)
-[1]Zaura       |09:55:03 | 21-10-2026| watch bakeru-ikesou-jan-mv: 58% (105.22/181.00s)
-[1]Zaura       |09:55:09 | 21-10-2026| watch bakeru-ikesou-jan-mv: 61% (110.75/181.00s)
-[1]Zaura       |09:55:15 | 21-10-2026| watch bakeru-ikesou-jan-mv: 64% (116.14/181.00s)
-[1]Zaura       |09:55:21 | 21-10-2026| watch bakeru-ikesou-jan-mv: 67% (121.79/181.00s)
-[1]Zaura       |09:55:28 | 21-10-2026| watch bakeru-ikesou-jan-mv: 70% (127.28/181.00s)
-[1]Zaura       |09:55:34 | 21-10-2026| watch bakeru-ikesou-jan-mv: 73% (132.97/181.00s)
-[1]Zaura       |09:55:40 | 21-10-2026| watch bakeru-ikesou-jan-mv: 76% (138.41/181.00s)
-[1]Zaura       |09:55:46 | 21-10-2026| watch bakeru-ikesou-jan-mv: 79% (143.79/181.00s)
-[1]Zaura       |09:55:52 | 21-10-2026| watch bakeru-ikesou-jan-mv: 82% (149.56/181.00s)
-[1]Zaura       |09:55:58 | 21-10-2026| watch bakeru-ikesou-jan-mv: 85% (155.07/181.00s)
-[1]Zaura       |09:56:04 | 21-10-2026| watch bakeru-ikesou-jan-mv: 88% (160.46/181.00s)
-[1]Zaura       |09:56:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.84/181.00s)
-[1]Zaura       |09:56:10 | 21-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.84/181.00s)
+[1]Zaura       |06:58:14 | 22-10-2026| watch: semua video sudah completed
 --> [1]Zaura menjalankan: Read Article
-[1]Zaura       |09:56:12 | 21-10-2026| news: 27/27 artikel selesai dibaca
-[1]Zaura       |09:56:13 | 21-10-2026| mint eligibility: {"userId":"1717373209455230976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zaurarastanty","status":"submitted","revision":"d41b7592-150c-4816-a469-c4fd9bf2
-[1]Zaura       |09:56:20 | 21-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Zaura       |06:58:15 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Zaura       |06:58:16 | 22-10-2026| mint eligibility: {"userId":"1717373209455230976","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@zaurarastanty","status":"submitted","revision":"d41b7592-150c-4816-a469-c4fd9bf2
+[1]Zaura       |06:58:22 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Zaura       |06:58:30 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Zaura menjalankan: Quiz Anime
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep1: sudah dijawab
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep2: sudah dijawab
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep3: sudah dijawab
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep4: sudah dijawab
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep5: sudah dijawab
-[1]Zaura       |09:56:22 | 21-10-2026| quiz ep6: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Zaura       |06:58:33 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Zaura menjalankan: Music Missions (realtime, bisa lama!)
-[1]Zaura       |09:56:25 | 21-10-2026| music: kedua misi sudah tercapai, stop
-[1]Zaura       |09:56:25 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Zaura       |09:56:25 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zaura       |09:56:25 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zaura       |06:58:35 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Zaura       |06:58:36 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Zaura       |06:58:36 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zaura       |06:58:36 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zaura menjalankan: Claim Missions
-[1]Zaura       |09:56:26 | 21-10-2026| mission music-listens-10: sudah diklaim
-[1]Zaura       |09:56:26 | 21-10-2026| mission music-minutes-30: sudah diklaim
-[1]Zaura       |09:56:26 | 21-10-2026| mission anime-completed-3: sudah diklaim
+[1]Zaura       |06:58:36 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Zaura       |06:58:36 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Zaura       |06:58:36 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Zaura menjalankan: Check Eligibility
 
 --- eligibility [1]Zaura ---
-  @myzauraa | score=1630 rank=4354
-  tasks    [###################-] 74/80
+  @myzauraa | score=1700 rank=4192
+  tasks    [##################--] 77/84
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -154,14 +70,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Zaura menjalankan: Read Manga
-[1]Zaura       |09:56:30 | 21-10-2026| manga: 0/13 chapter belum completed
+[1]Zaura       |06:58:40 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Zaura menjalankan: Get Gift
-[1]Zaura       |09:56:30 | 21-10-2026| gift: 0/4 belum diterima
+[1]Zaura       |06:58:40 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Zaura menjalankan: Setup Profile
-[1]Zaura       |09:56:31 | 21-10-2026| profile: bio="https://x.com/myzauraa" fav=kagura rewardAt=1791687777
-[1]Zaura       |09:56:31 | 21-10-2026| profile: bonus sudah diklaim, skip
+[1]Zaura       |06:58:41 | 22-10-2026| profile: bio="https://x.com/myzauraa" fav=kagura rewardAt=1791687777
+[1]Zaura       |06:58:41 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Zaura menjalankan: Bind Wallet
-[1]Zaura       |09:56:31 | 21-10-2026| wallet: sudah terikat Ciz9q1C2K2... (solana)
+[1]Zaura       |06:58:41 | 22-10-2026| wallet: sudah terikat Ciz9q1C2K2... (solana)
 
 == RINGKASAN ==
-- Zaura: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Zaura: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
